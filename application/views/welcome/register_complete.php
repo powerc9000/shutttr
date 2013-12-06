@@ -1,0 +1,1 @@
+Thanks for signing up! Youll recieve an email with more information when were ready.

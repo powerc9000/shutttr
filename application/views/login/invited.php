@@ -1,0 +1,1 @@
+You have been added to the invitation queue

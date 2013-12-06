@@ -1,0 +1,1 @@
+We have sent you an email containing a temporary password.

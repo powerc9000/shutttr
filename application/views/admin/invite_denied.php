@@ -1,0 +1,1 @@
+Invite denied <a href="<?=site_url("admin/invite") ?>">Go back?</a>

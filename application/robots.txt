@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /newer
+Disallow: /rate
+Disallow: /new
+Disallow: /dashboard
+Disallow: /blogcrap
+Disallow: /new
+Disallow: ip.php
+Disallow: ips.txt
+Allow: /
+

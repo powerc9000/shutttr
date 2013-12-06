@@ -1,0 +1,69 @@
+body{
+	background:url("../images/nami.png");
+}
+h3{
+	color:#ccc;
+}
+h6{
+	color:white;
+}
+h4{
+	color:white;
+}
+.row{
+	margin:0;
+	height:100%;
+}
+.photos{
+	width:70%;
+	margin-left:10px;
+	
+	box-shadow: inset 5px 0 10px black;
+	padding:50px;
+	
+}
+
+.photos-wrapper{
+	
+	
+	}
+.thumbnail {
+	display:inline-block;
+	margin:10px;
+	border:2px white solid;
+}
+.thumbnail img{
+	max-width:250px;
+	text-align:center;
+}
+.sidebar{
+	padding-top:20px;
+	padding-left:25px;
+	width:20%;
+	
+
+}
+.link-to-post{
+	margin-right:20px;
+	margin-bottom:25px;
+}
+body .adpacks{background:#fff;padding:3px; border:3px solid #eee; color:#333; margin-right:20px;}
+body .one .bsa_it_ad{background:transparent;border:none;font-family:inherit; color:#333;}
+body .one .bsa_it_ad:hover img{-moz-box-shadow:0 0 3px #000;-webkit-box-shadow:0 0 3px #000;box-shadow:0 0 3px #000;}
+body .one .bsa_it_ad .bsa_it_i{display:block;padding:0;margin:0 0 5px; color:#333;}
+body .one .bsa_it_ad .bsa_it_i img{border:none; color:#333;}
+body .one .bsa_it_ad .bsa_it_t{padding:6px 0 0 0; color:#333;}
+body .one .bsa_it_p{display:none;}
+body #bsap_aplink,body #bsap_aplink:hover{display:block;font-size:11px;margin:12px 0 0; color:#333; padding-bottom:3px;}
+body .adbg {background:#D6D6D6; width:200px;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px; padding:5px;position:relative; top:30px;}
+.adbg a {
+	text-align:center;
+}
+#photo-large{
+	position:relative;
+}
+#photo-large img{
+	display:block;
+	padding-top:50px;
+	padding-bottom:50px;
+}

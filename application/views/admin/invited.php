@@ -1,0 +1,1 @@
+<? echo $username; ?> invited! <a href="<?= site_url("admin/invites") ?>">Go back?</a>

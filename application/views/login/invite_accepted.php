@@ -1,0 +1,1 @@
+<h1> Success! You're in! Click <a href="<?= site_url("login")?>">Here</a> to login. Have Fun!</h1>
